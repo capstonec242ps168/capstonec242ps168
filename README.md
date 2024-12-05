@@ -30,6 +30,6 @@ This is our documentation for Capstone Project in Bangkit 2024. There are our me
 | Machine Learning      | [Machine Learning](https://github.com/capstonec242ps168/Machine-Learning-Model)  |
 | Mobile Development    | [Mobile Development](https://github.com/capstonec242ps168/Mobile-Dev-App)        |
 
-## DDITONAL LINK
+## ADDITONAL LINK
 - Data Set [Click Here](https://www.kaggle.com/datasets/mostafaabla/garbage-classification/data)
 - UI/UX [Click Here](https://www.figma.com/design/1DVIT6mJGUYuiZ9U6Fl3oF/Refind?node-id=0-1&node-type=canvas&t=ZZcRTrlQ8kE55Inp-0).
