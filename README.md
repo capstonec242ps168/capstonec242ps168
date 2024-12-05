@@ -17,7 +17,7 @@ This is our documentation for Capstone Project in Bangkit 2024. There are our me
 
 ## DOCUMENTATION
 
-## OUR FEATURER
+## OUR FEATURERS
 - Scanning and Recycle detection
 - Craft details about materials needed and steps
 - News about the environment
