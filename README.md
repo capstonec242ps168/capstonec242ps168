@@ -1,3 +1,4 @@
+## DOCUMENTATION
 ## REFIND - RECYCLE INSPIRATION
 
 Bangkit Capstone Team ID : C242-PS168 <br>
@@ -13,9 +14,10 @@ This is our documentation for Capstone Project in Bangkit 2024. There are our me
 | A295B4KY1399    | Farel Bayhaqi                  | Mobile Development   | Universitas Pembangunan Nasional Veteran Jakarta    |
 | A182B4KY3782    | Reyvaldo Shiva Pramudya        | Mobile Development   | Universitas Amikom Purwokerto |
 
-## SCHEME
-
-## DOCUMENTATION
+## ARCHITECTURE OVERVIEW
+<p align="center">
+  <img src="https://github.com/capstonec242ps168/capstonec242ps168/blob/main/Capstone%20(1).jpg" alt="Deskripsi Gambar" style="width:100%;">
+</p>
 
 ## OUR FEATURERS
 - Scanning and Recycle detection
