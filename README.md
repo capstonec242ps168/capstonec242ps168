@@ -16,7 +16,7 @@ This is our documentation for Capstone Project in Bangkit 2024. There are our me
 
 ## ARCHITECTURE OVERVIEW
 <p align="center">
-  <img src="https://github.com/capstonec242ps168/capstonec242ps168/blob/main/Capstone%20(1).jpg" alt="Deskripsi Gambar" style="width:100%;">
+  <img src="https://github.com/capstonec242ps168/capstonec242ps168/blob/main/architecture.png" alt="Deskripsi Gambar" style="width:100%;">
 </p>
 
 ## OUR FEATURERS
