@@ -1,8 +1,14 @@
 ## [C242-PS168] REFIND - RECYCLES INSPIRATION
+<p align="center">
+  <img src="https://github.com/capstonec242ps168/capstonec242ps168/blob/main/aplikasi%20refind.png" alt="Deskripsi Gambar" style="width:100%;">
+</p>
+<p align="left">
+Hi Everyone!
+</p>
+<p align="justify">
+Refind aspires to revolutionize waste management by empowering individuals to make informed recycling decisions. Powered by advanced image detection technology, Refind identifies recyclable materials and offers personalized craft ideas, turning waste into multifunctional items. Our mission is to promote sustainability and raise public awareness on the economic and environmental benefits of recycling, making waste management efficient, educational, and engaging.
+</p>
 
-<small>
-Refind aspires to revolutionize waste management by empowering individuals to make informed recycling decisions. Powered by advanced image detection technology, Refind identifies recyclable materials and offers personalized craft ideas, turning waste into multifunctional items. Our mission is to promote sustainability and raise public awareness on the economic and environmental benefits of recycling, making waste management efficient, educational and engaging.
-</small>
 
 ---
 This is our documentation for Capstone Project in Bangkit 2024. There are our members:
